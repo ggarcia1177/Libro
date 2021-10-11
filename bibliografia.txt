@@ -1,2 +1,2 @@
-AzureAD+GermanGarcia@IL2021015 MINGW64 ~/testgerman/Libro/libro (bibliografia)
-$ Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
+Scott Chacon and Ben Straub. Pro Git. Apress.
+Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
